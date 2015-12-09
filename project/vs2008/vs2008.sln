@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs2008", "vs2008\vs2008.vcproj", "{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Itanium = Debug|Itanium
+		Debug|Win32 = Debug|Win32
+		Release|Itanium = Release|Itanium
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Debug|Itanium.Build.0 = Debug|Itanium
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Debug|Win32.Build.0 = Debug|Win32
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Itanium.ActiveCfg = Release|Itanium
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Itanium.Build.0 = Release|Itanium
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Win32.ActiveCfg = Release|Win32
+		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
