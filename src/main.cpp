@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+#include "platform.h"
+
+using namespace zebra;
+
 int main(int argc, char **argv)
 {
-	printf("hello world");
+	int8 a = 10;
 }

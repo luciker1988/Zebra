@@ -1,4 +1,4 @@
-AC_INIT([hello], [1.0], [luciker1988@163.com])
+AC_INIT([zebra], [1.0], [270960147@qq.com])
  
 AM_INIT_AUTOMAKE([foreign -Wall -Werror])
  

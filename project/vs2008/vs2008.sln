@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs2008", "vs2008\vs2008.vcproj", "{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "autoconf", "make\make.vcproj", "{FD670CF0-608A-4E96-AC38-D12C61C4C88D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Itanium = Debug|Itanium
@@ -19,6 +21,12 @@ Global
 		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Itanium.Build.0 = Release|Itanium
 		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Win32.ActiveCfg = Release|Win32
 		{D8DB5F87-85DB-43D2-B9A8-D2C45FC385DE}.Release|Win32.Build.0 = Release|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Debug|Itanium.ActiveCfg = Debug|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Debug|Win32.Build.0 = Debug|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Release|Itanium.ActiveCfg = Release|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Release|Win32.ActiveCfg = Release|Win32
+		{FD670CF0-608A-4E96-AC38-D12C61C4C88D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

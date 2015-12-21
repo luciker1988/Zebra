@@ -60,10 +60,10 @@ am__make_running_with_option = \
   test $$has_opt = yes
 am__make_dryrun = (target_option=n; $(am__make_running_with_option))
 am__make_keepgoing = (target_option=k; $(am__make_running_with_option))
-pkgdatadir = $(datadir)/hello
-pkgincludedir = $(includedir)/hello
-pkglibdir = $(libdir)/hello
-pkglibexecdir = $(libexecdir)/hello
+pkgdatadir = $(datadir)/zebra
+pkgincludedir = $(includedir)/zebra
+pkglibdir = $(libdir)/zebra
+pkglibexecdir = $(libexecdir)/zebra
 am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd
 install_sh_DATA = $(install_sh) -c -m 644
 install_sh_PROGRAM = $(install_sh) -c
@@ -182,11 +182,11 @@ LTLIBOBJS =
 MAKEINFO = ${SHELL} /home/li/project/Zebra/missing makeinfo
 MKDIR_P = /bin/mkdir -p
 OBJEXT = o
-PACKAGE = hello
-PACKAGE_BUGREPORT = luciker1988@163.com
-PACKAGE_NAME = hello
-PACKAGE_STRING = hello 1.0
-PACKAGE_TARNAME = hello
+PACKAGE = zebra
+PACKAGE_BUGREPORT = 270960147@qq.com
+PACKAGE_NAME = zebra
+PACKAGE_STRING = zebra 1.0
+PACKAGE_TARNAME = zebra
 PACKAGE_URL = 
 PACKAGE_VERSION = 1.0
 PATH_SEPARATOR = :
@@ -226,7 +226,7 @@ mandir = ${datarootdir}/man
 mkdir_p = $(MKDIR_P)
 oldincludedir = /usr/include
 pdfdir = ${docdir}
-prefix = /usr/local
+prefix = /home/li/project/Zebra
 program_transform_name = s,x,x,
 psdir = ${docdir}
 sbindir = ${exec_prefix}/sbin
@@ -238,6 +238,7 @@ top_build_prefix = ../
 top_builddir = ..
 top_srcdir = ..
 hello_SOURCES = main.cpp
+hellodir = ../build
 all: all-am
 
 .SUFFIXES:
