@@ -319,6 +319,14 @@
 					>
 				</File>
 				<File
+					RelativePath="..\..\..\src\common\zio_module_impl.cpp"
+					>
+				</File>
+				<File
+					RelativePath="..\..\..\src\common\zio_module_impl.h"
+					>
+				</File>
+				<File
 					RelativePath="..\..\..\src\common\zio_multiplexer.cpp"
 					>
 				</File>
@@ -384,6 +392,14 @@
 				</File>
 				<File
 					RelativePath="..\..\..\src\manager\io_multiplexer_impl.h"
+					>
+				</File>
+				<File
+					RelativePath="..\..\..\src\manager\zio_manager.cpp"
+					>
+				</File>
+				<File
+					RelativePath="..\..\..\src\manager\zio_manager.h"
 					>
 				</File>
 			</Filter>
